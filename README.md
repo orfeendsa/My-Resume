@@ -11,30 +11,6 @@ The resume presents Shams ul Arfeen's professional background as a Senior Analys
 - Professional experience in financial data management and analysis
 - Strong project management and cross-functional collaboration skills
 
-## Features
-
-- Professional profile photo from LinkedIn with graceful fallback to initials if image fails to load
-- Responsive design that works well on all device sizes
-- Print-friendly layout with a dedicated print button
-- Subtle animations when scrolling through sections (on desktop)
-- Clean, professional styling that enhances readability
-- Organized sections for skills, experience, education, and achievements
-
-## Technical Implementation
-
-- `index.html` - The main HTML file containing the resume content
-- `css/styles.css` - Styling for the resume with responsive design
-- `js/main.js` - JavaScript for interactive features including print functionality and animations
-
-### Profile Photo Implementation
-
-The resume displays a professional profile photo from LinkedIn with the following technical considerations:
-- Circular cropping with a subtle border
-- Loading state with a spinner while the image loads
-- Fallback to initials ("SA") if the image fails to load
-- Responsive sizing that adapts to different screen sizes
-- Print-optimized version for printed resumes
-
 ## Viewing the Resume
 
 Simply open the `index.html` file in any modern web browser to view the resume.
